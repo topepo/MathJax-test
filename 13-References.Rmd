@@ -1,0 +1,15 @@
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+<div id="refs"></div>
+
+# Errata and Version History {-}
+
+***2019-04-xx***
+
+ * blah blah 
+
+ * yada yada
+ 
+ 
